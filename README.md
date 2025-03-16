@@ -1,2 +1,5 @@
-# Sass-7.1Pattern
-Sass 7-1 Pattern
+# The 7-1 pattern
+
+## Architecture
+
+![screenshot](./Architecture%20sass%207.1.png)
